@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @Sora-o-tobu, a student major in computer science.
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!---
