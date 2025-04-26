@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 April 2025 - To: 24 April 2025
+From: 21 April 2025 - To: 25 April 2025
 
-Python          7 hrs 52 mins   >>>>>>>>>>>>>>>>>>-------   72.72 %
-Verilog         1 hr 11 mins    >>>----------------------   10.93 %
-Makefile        41 mins         >>-----------------------   06.36 %
-SystemVerilog   40 mins         >>-----------------------   06.21 %
-C++             9 mins          -------------------------   01.49 %
+Python     9 hrs 2 mins    >>>>>>>>>>>>>>>>>--------   66.06 %
+Verilog    3 hrs 19 mins   >>>>>>-------------------   24.33 %
+Makefile   41 mins         >------------------------   05.03 %
+Markdown   17 mins         >------------------------   02.14 %
+C++        9 mins          -------------------------   01.18 %
 ```
 
 <!--END_SECTION:waka-->
