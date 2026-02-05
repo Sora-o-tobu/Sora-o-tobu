@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 April 2025 - To: 02 February 2026
+From: 21 April 2025 - To: 04 February 2026
 
 Python             230 hrs 10 mins >>>>>>>>>>>>>------------   51.89 %
 C++                64 hrs 20 mins  >>>>---------------------   14.51 %
